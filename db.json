@@ -1,0 +1,99 @@
+{
+  "comp":{
+    "id":1,
+    "price":0,
+    "desc":"str",
+    "GPU":{},
+    "CPU":{},
+    "Cooler":{},
+    "RAM":{},
+    "Motherboard":{},
+    "HDD":{},
+    "SSD":{},
+    "BP":{},
+    "Case":{},
+    "OS":{}
+  },
+  
+  "GPU":{
+    "id": 1,
+    "title": "str",
+    "wattage": 0,
+    "memorySize": 0,
+    "busWidth":0,
+    "image":"img"
+  },
+
+  "CPU":{
+    "id": 1,
+    "title": "str",
+    "cacheSize": 0,
+    "cores": 0,
+    "core":"str",
+    "image":"img"
+  },
+
+  "Cooler":{
+    "id": 1,
+    "title": "str",
+    "radiatorMaterial": "",
+    "heightCooler": 0,
+    "rotationSpeed":0,
+    "weight":0,
+    "img":"img"
+  },
+
+  "RAM":{
+    "id": 1,
+    "title": "str",
+    "memoryType": "str",
+    "frequency": 0,
+    "Bandwidth":0,
+    "image":"img"
+  },
+
+  "Motherboard":{
+    "id": 1,
+    "title": "str",
+    "ramSize": 0,
+    "socket": "str",
+    "typeM2":"str",
+    "image":"img"
+  },
+
+  "HDD":{
+    "id": 1,
+    "title": "str",
+    "memorySize": 0,
+    "image":"img"
+  },
+
+  "SSD":{
+    "id": 1,
+    "title": "str",
+    "memorySize": 0,
+    "maxSpeed": 0,
+    "image":"img"
+  },
+
+  "BP":{
+    "id": 1,
+    "title": "str",
+    "power": 0,
+    "image":"img"
+  },
+
+  "Case":{
+    "id":1,
+    "title":"str",
+    "formFactor":"str",
+    "dimension":"str",
+    "image":"img"
+  },
+
+  "OS":{
+    "id":1,
+    "title": "str",
+    "image":"img"
+  }
+}
